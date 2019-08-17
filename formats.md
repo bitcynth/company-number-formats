@@ -9,7 +9,7 @@
 - Comments: Unofficial
 
 ### United Kingdom
-- Format: ([0-9]{8})
+- Format: ([A-Z]{2})?[0-9]{8}
 - Source: http://www.hmrc.gov.uk/gds/com/attachments/coy_reg_no_formats.doc
 - Comments: PDF: https://raw.githubusercontent.com/bitcynth/company-number-formats/master/docs/uk.pdf
 
