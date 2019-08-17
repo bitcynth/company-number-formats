@@ -1,0 +1,2 @@
+se ([0-9]{6})-([0-9]{4}) https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1974174-om-identitetsbeteckning-for_sfs-1974-174 §4
+dk ([0-9]{8}) https://wiki.scn.sap.com/wiki/display/CRM/Denmark
