@@ -1,5 +1,5 @@
 ### Sweden
-- Format: ([0-9]{6})-([0-9]{4})
+- Format: ([0-9]{6})(-?)([0-9]{4})
 - Source: https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1974174-om-identitetsbeteckning-for_sfs-1974-174
 - Comments: In Swedish, Paragraph §4
 
@@ -12,4 +12,9 @@
 - Format: ([A-Z]{2})?[0-9]{8}
 - Source: http://www.hmrc.gov.uk/gds/com/attachments/coy_reg_no_formats.doc
 - Comments: PDF: https://raw.githubusercontent.com/bitcynth/company-number-formats/master/docs/uk.pdf
+
+### Germany
+- Format: HR(A|B) [0-9]{5,9}
+- Source: 
+- Comments: The range might not actually be 5-9 but I couldn't find any decent docs, and with the prefix it is good enough for most purposes
 

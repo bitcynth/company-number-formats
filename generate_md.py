@@ -5,7 +5,8 @@ import csv
 country_names = {
     'se': 'Sweden',
     'dk': 'Denmark',
-    'uk': 'United Kingdom'
+    'uk': 'United Kingdom',
+    'de': 'Germany'
 }
 
 lines = []
