@@ -11,7 +11,7 @@ country_names = {
 lines = []
 
 with open('formats.txt') as f:
-    reader = csv.reader(f)
+    reader = csv.reader(f, doublequote=True, quoting=csv.QUOTE_ALL, escapechar='\\')
     for row in reader:
         country = country_names[row[0]]
         format_regex = row[1]
