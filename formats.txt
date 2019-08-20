@@ -1,4 +1,4 @@
 se,([0-9]{6})(-?)([0-9]{4}),"https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1974174-om-identitetsbeteckning-for_sfs-1974-174","In Swedish, Paragraph §4"
 dk,([0-9]{8}),"https://wiki.scn.sap.com/wiki/display/CRM/Denmark","Unofficial"
 uk,([A-Z]{2})?[0-9]{8},"http://www.hmrc.gov.uk/gds/com/attachments/coy_reg_no_formats.doc","PDF: https://raw.githubusercontent.com/bitcynth/company-number-formats/master/docs/uk.pdf"
-de,"((HRB)|(HRA)|(VR)|(GnR)|(GNR)) [0-9]{1,9}( [A-Za-z]+)?","https://www.handelsregister.de/rp_web/mask.do","The range might not actually be 0-9 but I couldn't find any decent docs, and with the prefix it is good enough for most purposes"
+de,"((HRB)|(HRA)|(VR)|(GnR)|(GNR)) ?[0-9]{1,9}( [A-Za-z]+)?","https://www.handelsregister.de/rp_web/mask.do","The range might not actually be 0-9 but I couldn't find any decent docs, and with the prefix it is good enough for most purposes"
