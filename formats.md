@@ -14,7 +14,7 @@
 - Comments: PDF: https://raw.githubusercontent.com/bitcynth/company-number-formats/master/docs/uk.pdf
 
 ### Germany
-- Format: HR(A|B) [0-9]{1,9}
+- Format: ((HRB)|(HRA)|(VR)|(GnR)|(GNR)) [0-9]{1,9}( [A-Za-z]+)?
 - Source: https://www.handelsregister.de/rp_web/mask.do
 - Comments: The range might not actually be 0-9 but I couldn't find any decent docs, and with the prefix it is good enough for most purposes
 
