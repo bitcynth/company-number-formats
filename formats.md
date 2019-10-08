@@ -5,8 +5,8 @@
 
 ### Denmark
 - Format: ([0-9]{8})
-- Source: https://wiki.scn.sap.com/wiki/display/CRM/Denmark
-- Comments: Unofficial
+- Source: https://indberet.virk.dk/anvendte-begreber
+- Comments: Official source in Danish
 
 ### United Kingdom
 - Format: ([A-Z]{2})?[0-9]{8}
